@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 
 function Header() {
     return (
-        <Navbar bg="Light" sticky="Top" className="Header">
+        <Navbar bg="light" sticky="top" className="Header">
             <Container>
                 <Navbar.Brand>
                     Microblog
